@@ -11,7 +11,7 @@
 <br/>
 
 <h3 align="left">Languages & Tools</h3>
-<img height="40px" align="left" src="https://user-images.githubusercontent.com/83576172/163422867-804433e7-b0a8-4371-88ec-bf77b6f99d17.png" alt="vscode" />
+<img height="30px" width="30px" align="left" src="https://user-images.githubusercontent.com/83576172/163422867-804433e7-b0a8-4371-88ec-bf77b6f99d17.png" alt="vscode" />
 <img height="40px" align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
 <img height="40px" align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
 <img height="40px" align="left" src="https://user-images.githubusercontent.com/79355239/151290690-197d5ed7-a766-4664-a138-062e6ecd56d1.svg" alt="npm" />
