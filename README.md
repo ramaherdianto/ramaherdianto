@@ -12,16 +12,16 @@
 
 <h3 align="left">Languages & Tools</h3>
 <img height="30px" width="30px" align="left" src="https://user-images.githubusercontent.com/83576172/163422867-804433e7-b0a8-4371-88ec-bf77b6f99d17.png" alt="vscode" />
-<img height="40px" align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
-<img height="40px" align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
-<img height="40px" align="left" src="https://user-images.githubusercontent.com/79355239/151290690-197d5ed7-a766-4664-a138-062e6ecd56d1.svg" alt="npm" />
-<img height="40px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" />
-<img height="40px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" />
-<img height="40px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" />
-<img height="40px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" />
-<img height="40px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" />
-<img height="40px" align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" />
-<img height="40px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react.js" />
+<img height="30px" width="30px" align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
+<img height="30px" width="30px" align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
+<img height="30px" width="30px" align="left" src="https://user-images.githubusercontent.com/79355239/151290690-197d5ed7-a766-4664-a138-062e6ecd56d1.svg" alt="npm" />
+<img height="30px" width="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" />
+<img height="30px" width="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" />
+<img height="30px" width="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" />
+<img height="30px" width="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" />
+<img height="30px" width="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" />
+<img height="30px" width="30px" align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" />
+<img height="30px" width="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react.js" />
 
 <br/>
 <br/>
