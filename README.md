@@ -7,7 +7,7 @@
 
 - 🎓 I'm currently a student majoring in Information System.
 - ⚡ I want to be a **Frontend Developer**
-- 📖 I’m currently learning **Javascript, Bootstrap and ReactJS**
+- 📖 I’m currently learning **ReactJS**
 - 📫 How to reach me **ramherdianto@gmail.com**
 <br/>
 
