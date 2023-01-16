@@ -24,9 +24,7 @@
 <img height="40px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react.js" />
 
 <br/>
-<br/>
-<br/>
-<hr>
+
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
