@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=E582D8&left=true&vLeft=true&multiline=true&width=1100&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Ramadhan+Herdianto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=E582D8&left=true&vLeft=true&multiline=true&width=1100&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Ramadhan+Herdianto)](https://git.io/typing-svg)
 <br/>
 
 <h3 align="left">About me</h3>
