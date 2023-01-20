@@ -5,7 +5,7 @@
 <h3 align="left">About me</h3>
 
 - 🎓 I'm currently a student majoring in Information System.
-- ⚡ I want to be a **Frontend Developer**
+- ⚡ I'm a **Frontend Developer & UI Engineer**
 - 📖 I’m currently learning **ReactJS**
 - 📫 How to reach me **ramherdianto@gmail.com**
 <br/>
