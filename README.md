@@ -4,7 +4,6 @@
 
 <h3 align="left">About me</h3>
 
-- 🎓 I'm currently a student majoring in Information System.
 - ⚡ I'm a **<span style="color: #E561EE" >Front End Developer</span>**
 - 📖 I’m currently learning **ReactJS**
 - 📫 How to reach me **ramherdianto@gmail.com**
