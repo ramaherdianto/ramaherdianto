@@ -4,8 +4,8 @@
 
 <h3 align="left">About me</h3>
 
-- ⚡ I'm a **<span style="color: #E561EE" >Front End Developer</span>**
-- 📖 I’m currently learning **ReactJS**
+- ⚡ I'm a **<span style="color: #E561EE" >Fullstack Developer</span>**
+- 📖 I’m currently learning **ReactJS & Laravel**
 - 📫 How to reach me **ramherdianto@gmail.com**
 <br/>
 
